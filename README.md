@@ -1,16 +1,22 @@
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to Internet Technology Fundamentals</title>
+    <meta charset="utf-8">
+    <title></title>
 </head>
 <body>
-    <h1>Welcome to Laboratory 1</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elut, sed
-    do eiusmod tempor incididunt ut labero et dolore magne aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-    dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Exceptur sint occaecat cupidatet non
-    proident, sunt in culpa qui offica deserunt mollit anim id est
-    laborum.</p>
+    <h4>Нүүр хуудас</h4>
+    <h3>Миний танилцуулга</h3>
+    <p>Минй нэрийг Чиваасүрэн овогтой Бат-Өлзий гэдэг. 
+    Хөвсгөл аймгийн Цагаан-Уул суманд төрж өссөн.
+    Жирийн нэгэн малчин айлын бага хөвгүүн болон мэндэлсэн.</p>
+    <h3>Хобби</h3>>
+    <p>Сагсан бөмбөг тоглох</p>>
+    <h3>Гэр бүл</h3>>
+    <p>Аав ээж болон дээрээ ганц ахтай доороо 2 охин дүүтэй. 
+    Ах тусдаа гарсан учир ам бүл 5 гэж явж байгаа.</p>>
+    <h3>Холбоо барих</h3>>
+    <p>Гар утас: +97694303396</p>>
+    <p>Мэйл: bcivaasren@gmail.com</p>>
 </body>
 </html>
