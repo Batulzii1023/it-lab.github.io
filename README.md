@@ -3,6 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title></title>
+     <style>
+    body {background-color: powderblue;}
+    h1 {color: red;}
+    p {color: blue;}
+  </style>
 </head>
 <body>
     <h4>Нүүр хуудас</h4>
