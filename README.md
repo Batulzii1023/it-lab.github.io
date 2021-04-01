@@ -6,7 +6,7 @@
 </head>
 <body>
     <h4>Нүүр хуудас</h4>
-    <h4><img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"></h4>
+    <h4><img src="![image](https://user-images.githubusercontent.com/81601446/113271966-afe7e400-930d-11eb-81c0-3defc5ac31d4.png)" alt="Girl in a jacket" width="500" height="600"></h4>
     <h3>Миний танилцуулга</h3>
     <p>Минй нэрийг Чиваасүрэн овогтой Бат-Өлзий гэдэг. 
     Хөвсгөл аймгийн Цагаан-Уул суманд төрж өссөн.
